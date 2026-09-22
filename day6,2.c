@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-<<<<<<< HEAD
 int main() {
     int num;
 
